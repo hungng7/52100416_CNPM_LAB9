@@ -1,0 +1,7 @@
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\bin\Debug\DTO.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\bin\Debug\DTO.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\bin\Debug\DTO.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\obj\Debug\DTO.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DTO\obj\Debug\DTO.pdb

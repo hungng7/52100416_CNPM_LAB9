@@ -1,0 +1,11 @@
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DAL.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DAL.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DAL.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DTO.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DTO.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\bin\Debug\DTO.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\obj\Debug\DAL.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\DAL\obj\Debug\DAL.pdb

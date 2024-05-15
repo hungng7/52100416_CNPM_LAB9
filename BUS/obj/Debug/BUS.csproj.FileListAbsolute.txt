@@ -1,0 +1,14 @@
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\BUS.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\BUS.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\BUS.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DAL.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DTO.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DAL.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DAL.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DTO.pdb
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\bin\Debug\DTO.exe.config
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\obj\Debug\BUS.exe
+D:\Hoc_CNPM\Lab7\52100416_NguyenHuyHung_lab7\BUS\obj\Debug\BUS.pdb
